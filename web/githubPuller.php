@@ -1,1 +1,1 @@
-<?php echo 'here...'; ?>
+<?php `git pull` ?>
