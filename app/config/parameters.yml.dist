@@ -1,0 +1,16 @@
+# This file is auto-generated during the composer
+parameters:
+    database_driver: pdo_mysql
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: sf
+    database_user: root
+    database_password: control
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    locale: en
+    secret: asdkjkk76t7kgjkhgsaf789asdfasfa0s8755adsfiuhiaudfhi
+    application.email.developer: yosvelquintero@gmail.com
+    application.email.info: info@sf.dev
