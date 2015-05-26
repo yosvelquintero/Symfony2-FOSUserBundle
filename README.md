@@ -8,9 +8,8 @@ installed and configured to work with MySQL
 1) Installing the Standard Edition
 ----------------------------------
 
-If you downloaded an archive "without vendors", you also need to install all
-the necessary dependencies. Download composer (see above) and run the
-following command:
+If you downloaded this repo it comes "without vendors". You need to install all
+the necessary dependencies. Run the following command:
 
     php composer.phar install
 
