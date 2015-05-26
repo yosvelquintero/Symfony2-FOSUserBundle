@@ -1,4 +1,4 @@
-Symfony2 Basic Project
+Symfony2 + FOSUserBundle
 ========================
 
 This is a basic Symfony2 framework v2.1.7 with the popular FOSUserBundle
